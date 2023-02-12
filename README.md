@@ -10,5 +10,5 @@ JSON - Data storage format
 Heroku - Deployment platform
 
 ## Screenshots
-![Front](/public/assets/images/front.jpg)
-![Back](/public/assets/images/back.jpg)
+![Front](/public/assets/img/front.jpg)
+![Back](/public/assets/img/back.jpg)
